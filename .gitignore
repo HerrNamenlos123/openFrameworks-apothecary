@@ -8,6 +8,7 @@
 !/docker
 !/apothecary/**/*
 !/scripts/**/*
+!/testing-docker
 /apothecary/build
 .DS_Store
 !.*.yml
