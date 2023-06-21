@@ -33,7 +33,6 @@ See the help section for more options
 ./apothecary/apothecary --help
 ```
 
-
 ------------
 
 2014 OpenFrameworks team   
